@@ -8,6 +8,7 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
 import pl.painm.GitHubSearcherApp.model.BranchInfo;
 import pl.painm.GitHubSearcherApp.model.GitHubRepository;
 
@@ -16,6 +17,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+
+@Service
 public class GitHubRepositoryService {
 
 
