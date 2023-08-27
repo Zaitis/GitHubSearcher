@@ -11,8 +11,7 @@ GitHub Searcher App is a Spring Boot application that allows you to retrieve a l
     - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
